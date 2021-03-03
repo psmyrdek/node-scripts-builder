@@ -12,7 +12,7 @@
   "description": "",
   "dependencies": {
     "express": "4.17.1",
-    "pug": "2.0.3"
+    "pug": "3.0.1"
   },
   "devDependencies": {
     "nodemon": "1.19.1",
